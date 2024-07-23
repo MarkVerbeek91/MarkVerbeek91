@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MarkVerbeek91
-- 👀 I’m interested in Clean Coding (Python/c/c++/rust/haskell/etc), LEGO Technick, Robotics, Rendering, and automation of almost everything. Ow, and I know physics, too! 
+- 👀 I’m interested in Clean Code and syntax sugar, LEGO Technick, Robotics, Rendering, and automation of almost everything. Ow, and I know physics, too!
+- 🔊 My main programming language is Python. I can code in C/C++, have done a tutorial on many differend languages like rust, julia, go and haskell.
 - 🌱 I’m on path to become the best Solution Architect in the Netherlands.
 - 💞️ I’m looking to collaborate on open source in general.
 - 📫 How to reach me: Github or Linkedin.
